@@ -1,0 +1,16 @@
+{
+  "name": "day-4-lp",
+  "version": "1.0.0",
+  "description": "ランディングページ",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:confirm": "vite build --base=/confirm/",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.69.0",
+    "vite": "^7.3.0"
+  }
+}
